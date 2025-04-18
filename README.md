@@ -1,3 +1,63 @@
+# 🏆 Winner of the Council President's Award – Advanced Innovation Convergence University Program  
+# Skin Image Diagnosis  
+> **Team NOTT** <br/> **Development Period: 2024.06 ~ 2024.09** <br/> **Note: IRB Review Approved and Completed**
+
+# Demonstrate  
+---  
+<div align="center">
+
+https://github.com/user-attachments/assets/d7477ff5-233d-465a-b06e-1e5ceb5489fb
+
+</div>
+
+## Technologies Used  
+![20241107_193848](https://github.com/user-attachments/assets/93f3ac49-15da-41bf-8df4-e9dbd1cfab1f)
+
+## Project Overview  
+AI-based early diagnosis system for pediatric and adolescent skin diseases, **'SKINNOTT'**, enhances diagnostic accuracy using skin disease images and condition data. It aims to reduce the financial burden related to the depletion of national health insurance funds.  
+The primary goal is to offer accessible dermatological diagnostic services for young users, improving diagnostic efficiency and healthcare accessibility.
+
+## Problem Definition & Motivation  
+To address the insufficient attention to dermatological diseases despite their widespread presence and the instability of public health insurance funding, we developed a lightweight diagnostic system for children and adolescents.
+
+## Key Features  
+1. **AI Diagnostic System**: Provides high-accuracy diagnoses using labeled skin disease images and data.  
+2. **Real-Time Data Collection**: Users can input and manage data via the app, which is used to continually train the AI.  
+3. **Skin Condition Monitoring and Management**: Tracks individual skin condition changes and offers personalized care and treatment recommendations.
+
+## Expected Outcomes  
+1. **Improved Medical Accessibility**: Provides opportunities for early diagnosis and management of skin diseases in children and adolescents.  
+2. **Reduced Medical Costs**: Enables basic diagnosis within the app, minimizing unnecessary hospital visits.  
+3. **Healthcare Data Accumulation**: Builds a pediatric skin disease dataset to contribute to medical research.
+
+## App Flow  
+![flow](https://github.com/user-attachments/assets/8dc7e680-c262-42ea-b47e-49e3c9cd4fc4)
+
+## Dataset Used (AI-Hub)  
+![image](https://github.com/user-attachments/assets/93bcd807-54bd-4c46-a4a6-f574601f8ace)
+
+## Sample Data Visualizations  
+1. **Visualization of Skin Disease–Symptom Relationships** (Some text may be corrupted due to encoding issues)  
+   - **Dataset**: Pediatric skin disease image data  
+   ![image](https://github.com/user-attachments/assets/48457cdd-8446-4c5e-b4b9-80fb891fe52c)
+
+2. **Skin Condition Data Visualization**  
+   - **Dataset**: Skin condition measurement data  
+   ![image](https://github.com/user-attachments/assets/05150a5a-b9da-40e4-a693-367b838718f5)  
+   ![image](https://github.com/user-attachments/assets/87b6d49c-936f-4e5a-b4bc-a90a52cebef4)  
+   ![image](https://github.com/user-attachments/assets/b0fc19c6-dee7-4d5f-88ea-b1b474ba6d63)
+
+## SID Development Team (App Development + AI)  
+
+|      서재오       |        임한빈        |       최재원       |  
+| :--------------: | :------------------: | :----------------: |  
+| <img width="160px" src="https://avatars.githubusercontent.com/u/90062866?v=4" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/123966795?v=4" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/95406268?v=4"/> |  
+| [@seojaeoh](https://github.com/seojaeohcode) | [@imhanbin](https://github.com/Hanbeeen) | [@choijaewon](https://github.com/ppre1ude) |  
+| 3rd Year, Dept. of AI, Chonnam National University | 3rd Year, Dept. of AI, Chonnam National University | 3rd Year, Dept. of AI, Chonnam National University |
+
+
+
+
 # 🏆 첨단분야 혁신융합대학사업 협의회장상 수상
 # Skin Image Diagnosis
 > **Team NOTT** <br/> **개발기간: 2024.06 ~ 2024.09** <br/> **특이사항: IRB 심의 승인 및 종료**

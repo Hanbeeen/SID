@@ -56,6 +56,7 @@ To address the insufficient attention to dermatological diseases despite their w
 | 3rd Year, Dept. of AI, Chonnam National University | 3rd Year, Dept. of AI, Chonnam National University | 3rd Year, Dept. of AI, Chonnam National University |
 
 
+---
 
 
 # 🏆 첨단분야 혁신융합대학사업 협의회장상 수상
